@@ -45,4 +45,4 @@ Optionally review the terraform configuration
 
      terraform apply
 
-![image](https://github.com/Lanu390/tech_challenge_proj/assets/47486223/e7fd593c-71e3-48d9-a3f5-21992064605f)
+
